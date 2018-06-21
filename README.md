@@ -1,3 +1,5 @@
+**Panthère has been moved in the Symfony project**, Pull Requests and issues must be opened on [the Symfony repository](https://github.com/symfony/panthere) now!
+
 <h1 align="center"><img src="panthere.png" alt="Panthère"></h1>
 
 **A browser testing and web scraping library for [PHP](https://php.net) and [Symfony](https://symfony.com)**
